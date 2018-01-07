@@ -1,4 +1,6 @@
 # 20180108　テスト push
+## git push -u origin master でプッシュできた。。。
+
 
 # 真央ゼミWebサイト
 真央ゼミのWebサイト用リポジトリです。
